@@ -6,6 +6,10 @@ Rendering Projects Demo(Based-on Unity 2019.4):
 
     - [Low-Poly Water](https://github.com/c0r1y-6a0/Water)
     ![Low-Poly-Water](https://github.com/c0r1y-6a0/RenderingProjects/blob/main/Imgs/crab.gif?raw=true)
+
+    - [Simple-Toon-Shaing](https://github.com/c0r1y-6a0/toon-shading)
+    ![Simple-Toon](https://github.com/c0r1y-6a0/RenderingProjects/blob/main/Imgs/simple-toon.png?raw=true)
+
     - Cel-Shading Water
     - Cel-Shading Character
 5. RayTracing Cornel-Box:
