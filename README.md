@@ -5,7 +5,7 @@ Rendering Projects Demo(Based-on Unity 2019.4):
 4. NPR:
 
     - [Low-Poly Water](https://github.com/c0r1y-6a0/Water)
-    ![Low-Poly-Water](https://github.com/c0r1y-6a0/RenderingProjects/blob/main/Imgs/crab.gif?raw=true)
+    ![Low-Poly-Water](https://github.com/c0r1y-6a0/RenderingProjects/blob/main/Imgs/boat.gif?raw=true)
 
     - [Simple-Toon-Shaing](https://github.com/c0r1y-6a0/toon-shading)
     ![Simple-Toon](https://github.com/c0r1y-6a0/RenderingProjects/blob/main/Imgs/simple-toon.png?raw=true)
