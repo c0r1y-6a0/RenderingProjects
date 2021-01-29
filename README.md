@@ -15,3 +15,5 @@ Rendering Projects Demo(Based-on Unity 2019.4):
 5. RayTracing Cornel-Box:
 6. Compute-Shader Based TrayTracing Implementation:
 7. MISC Visual Effects:
+    - [Fast-Translucency]
+    ![Low-Poly-Water](https://github.com/c0r1y-6a0/RenderingProjects/blob/main/Imgs/stanford-bunny.gif?raw=true)
